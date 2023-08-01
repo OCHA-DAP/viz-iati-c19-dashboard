@@ -71,8 +71,7 @@ export default {
     '@nuxtjs/gtm'
   ],
   gtm: {
-    id: 'GTM-MFNPQ7K',
-    //enabled: true
+    id: 'GTM-MFNPQ7K'
   },
   /*
   ** Axios module configuration
