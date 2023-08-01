@@ -67,8 +67,13 @@ export default {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     'nuxt-vue-select',
-    '@nuxtjs/markdownit'
+    '@nuxtjs/markdownit',
+    '@nuxtjs/gtm'
   ],
+  gtm: {
+    id: 'GTM-MFNPQ7K',
+    //enabled: true
+  },
   /*
   ** Axios module configuration
   ** See https://axios.nuxtjs.org/options
@@ -79,9 +84,9 @@ export default {
   ** Build configuration
   */
   buildModules: [
-    [
-      '@nuxtjs/gtm'
-    ],
+    // [
+    //   '@nuxtjs/gtm'
+    // ],
     // LINTING
     // Doc: https://github.com/nuxt-community/eslint-module
     // Comment out the below 3 lines to disable linting
