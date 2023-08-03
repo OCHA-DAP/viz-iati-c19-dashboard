@@ -1,4 +1,10 @@
-# Covid-19 visualization
+# Covid-19 IATI visualization
+
+*** We are no longer maintaining the IATI COVID-19 Funding Dashboard
+
+We hope it has been a useful tool over the past couple of years. This dashboard uses IATI data up to 24th April 2023. The underlying dataset will continue to be hosted on [HDX](https://data.humdata.org/dataset/iati-covid19-funding).
+
+Contact us at [hdx@un.org ](mailto:hdx@un.org) with questions or feedback. ***
 
 A simple visualization using published IATI data on Covid-19.
 
